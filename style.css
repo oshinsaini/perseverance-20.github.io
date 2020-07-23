@@ -71,7 +71,7 @@ hr {
   /* 1 */
   height: 0;
   /* 1 */
-  overflow: visible;
+  overflow: auto;
   /* 2 */ }
 
 /**
@@ -426,7 +426,7 @@ img {
 
 #container {
   height: 100%;
-  overflow: hidden;
+  overflow: auto;
   position: relative;
   padding: 20px; }
   #container #sidebar_wrap {
@@ -595,7 +595,7 @@ img {
     list-style: none;
     border: 1px solid #8c8c8c;
     border-radius: 2px;
-    overflow: hidden;
+    overflow: auto;
     font-size: 15px; }
     #sidebar .field ul li {
       float: left;
